@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GuardianNews</string>
+    <string name="no_internet_connection">Please check your wifi and mobile internet</string>
+    <string name="no_news_error">No news are found.We have some problems</string>
+    <string name="no_data_to_display">No data to display</string>
+    <string name="title_list">Guardian News</string>
+    <string name="type_list">Politics</string>
+    <string name="date_list">22.2.2018</string>
+    <string name="author_list">Juan Vasile</string>
+    <!--Setting -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+    <!--Order-by-->
+    <string name="settings_order_by_label">Order by</string>
+    <string name="settings_order_by_key" translatable="false">order-by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+</resources>
